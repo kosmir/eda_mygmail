@@ -1,5 +1,5 @@
-# eda_mygmail
-В начале марта я продолжил свое погружение в мир Data Science с помощью отличного курса Start ML, разработанного командой Анатолия Карпова.
+# Exploratory data analysis of my gmail account
+В начале марта я продолжил свое погружение в мир Data Science с помощью отличного курса "Start ML" https://karpov.courses/ml-start, разработанного командой Анатолия Карпова.
 
 Первый модуль был посвящен основам Python и commonly used библиотекам, таким как Pandas, NumPy, Matplotlib и Seaborn.
 
